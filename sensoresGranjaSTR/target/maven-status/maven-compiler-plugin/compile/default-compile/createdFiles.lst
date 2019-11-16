@@ -1,0 +1,12 @@
+controlador\persistencia\ConectorMongo.class
+modelo\Sensor.class
+controlador\vista\TableroTRControlador$1.class
+modelo\Raspberry.class
+main\MainApp.class
+controlador\vista\PrincipalControlador.class
+controlador\analisis\Regresion.class
+controlador\vista\TableroTRControlador.class
+controlador\conexion\ConectorSerial.class
+modelo\DatoSensor.class
+modelo\ColorTexto.class
+controlador\vista\TableroHTControlador.class
